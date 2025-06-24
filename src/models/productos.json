@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tablet",
+    "categoria": "Electrónica",
+    "precio": 500,
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "nombre": "Mueble TV",
+    "categoria": "Hogar",
+    "precio": 150,
+    "stock": 25
+  },
+  {
+    "id": 3,
+    "nombre": "Camisa",
+    "categoria": "Ropa",
+    "precio": 159,
+    "stock": 30
+  },
+  {
+    "id": 4,
+    "nombre": "Cereal",
+    "categoria": "Alimentos",
+    "precio": 150,
+    "stock": 30
+  },
+  {
+    "id": 5,
+    "nombre": "Teclado",
+    "categoria": "Electrónica",
+    "precio": 700,
+    "stock": 0
+  },
+  {
+    "id": 6,
+    "nombre": "Jean",
+    "categoria": "Ropa",
+    "precio": 120,
+    "stock": 0
+  },
+  {
+    "id": 7,
+    "nombre": "Galletitas",
+    "categoria": "Alimentos",
+    "precio": 80,
+    "stock": 15
+  },
+  {
+    "id": 8,
+    "nombre": "Sillon",
+    "categoria": "Hogar",
+    "precio": 250,
+    "stock": 5
+  }
+]
